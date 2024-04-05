@@ -1,2 +1,2 @@
-"# Cli-Number-Guessing-Game"\n
+"# Cli-Number-Guessing-Game"
 "# Todo-Application"
