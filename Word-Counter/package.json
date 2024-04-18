@@ -1,8 +1,13 @@
 {
-  "name": "word-counter",
+  "name": "my-type-script-word-counter-application",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "types": "module",
+  "bin": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
